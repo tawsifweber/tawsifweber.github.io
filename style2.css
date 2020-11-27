@@ -1,0 +1,21 @@
+*{margin:0;padding:0;}
+.full_wrap{
+	width:100%;
+}
+.wrap{
+	width:960px;
+	margin:0 auto;
+	display:block;
+}
+.header_bg{
+	background:red;
+}
+.content_bg{
+	background:orange;
+}
+header{
+	background:orange;
+}
+.maincontent{
+	background:red;
+}
